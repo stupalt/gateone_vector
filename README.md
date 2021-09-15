@@ -30,8 +30,8 @@ Then you can start talking after the chime.
 *This is a slightly more natural way of talking to Vector.*
 
 Headless talk is a feature in GateOne where you can talk to Vector without having to prompt the robot. This means no "Hey Vector".
-Just talk ahead without anything else.
+Just talk away without having to say anything else.
 
-Please stay aware that headless only supports basic social featuress like "hello"
+Please be aware that Headless only supports basic social featuress like "hello"
 
-**WARNING : Vector might get triggered while you watch videos or you interact with other people. Headless can be turned off in settings.**
+**WARNING : Vector might get triggered while you watch videos or interact with other people. Headless can be turned off in settings.**
