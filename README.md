@@ -1,7 +1,7 @@
 # gateone_vector
 First instance of The Gate Project for Vector
 
-***WARNING! DYNAMIC WILL NOT BE IMPLEMENTED UNTIL DECEMBER***
+***WARNING! DYNAMIC WILL NOT BE RELEASED UNTIL DECEMBER***
 
 
 **How to setup GateOne for Vector**
@@ -14,7 +14,7 @@ First instance of The Gate Project for Vector
   randon,
   pygame,
 4. Open the installer for your respective OS.
-5. Follow the steps.
+5. Follow the steps shown on screen.
 6. Enjoy GateOne
 
 
@@ -29,7 +29,7 @@ Then you can start talking after the chime.
 
 *This is a slightly more natural way of talking to Vector.*
 
-Headless talk is a feature in gateone where you can talk to vector without having to prompt the robot. This means no "Hey Vector".
+Headless talk is a feature in GateOne where you can talk to Vector without having to prompt the robot. This means no "Hey Vector".
 Just talk ahead without anything else.
 
 Please stay aware that headless only supports basic social featuress like "hello"
