@@ -1,5 +1,8 @@
 # gateone_vector
-First instance of The Gate Project for vector
+First instance of The Gate Project for Vector
+
+***WARNING! DYNAMIC WILL NOT BE IMPLEMENTED UNTIL DECEMBER***
+
 
 **Direct talk**
 
