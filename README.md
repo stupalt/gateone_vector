@@ -13,9 +13,9 @@ First instance of The Gate Project for Vector
   anki_vector,
   randon,
   pygame,
-4. Open the installer for your respective OS.
+4. Open the main.py file
 5. Follow the steps shown on screen.
-6. Enjoy GateOne
+
 
 
 **Direct talk**
