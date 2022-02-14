@@ -1,5 +1,6 @@
-from colorama import Fore
 import os
+os.system("pip install colorama")
+from colorama import Fore
 import time
 from tkinter import messagebox
 from tkinter import Tk
