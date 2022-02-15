@@ -28,6 +28,7 @@ os.system("pip install pygame")
 os.system("pip install wolframalpha")
 os.system("pip install json")
 os.system("pip install keyboard")
+os.system("pip install librosa")
 print(Fore.LIGHTWHITE_EX + "Get your Vector ready and place it on it's charger.")
 import keyboard
 print("Have you already installed the Vector SDK? [Y]es / [N]o")
